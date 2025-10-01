@@ -51,6 +51,8 @@ We add a physics-inspired twist: **no wolf can move faster than light speed \(c\
 
 This creates a natural **adaptive learning rate** — no manual tuning needed.
 
+Refer to wolfPREDICT.py
+
 ---
 
 ## Strengths of This Approach
@@ -81,4 +83,6 @@ sentences = [
     "Awful performance and story"
 ]
 labels = [[1],[1],[1],[1],[1],[0],[0],[0],[0],[0]]
+
+Refer to wolfLLM.py
 
